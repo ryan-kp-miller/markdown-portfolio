@@ -1,3 +1,1 @@
-Ryan
-# This is a header
-Replace this with your name, and include a header.
+# Hello! My name is Ryan, and below is an image of a cat. Have fun!
